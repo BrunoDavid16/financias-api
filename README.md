@@ -3,6 +3,11 @@
 ## Descrição
 API REST criada por Bruno David para gerenciar finanças pessoais. Possui autenticação com JWT, banco de dados SQLite e as operações completas de CRUD. Cada registro tem id, valor, descrição, categoria e data, sendo separado entre receitas e despesas.
 
+## API ao vivo
+```
+Acesse a documentação em: https://financias-api.onrender.com/docs
+```
+
 ## Tecnologias usadas
 - Python
 - FastAPI
